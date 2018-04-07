@@ -2930,7 +2930,7 @@
 
 			#header {
 				/* background-attachment: scroll; */
-				background-position: left center;
+				background-position: top left, center center;
 				background-size: auto,		cover;
 				left: auto;
 				padding: 6em 4em;
